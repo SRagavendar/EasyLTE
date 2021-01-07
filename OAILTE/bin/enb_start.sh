@@ -8,7 +8,7 @@ ENBCONFPATH="/usr/local/etc/oai/enb.conf"
 
 cd /var/tmp
 
-# Kill off running function
+# Kill-off running function
 killall -q $ENBEXE
 sleep 1
 
